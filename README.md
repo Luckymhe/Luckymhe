@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Luckymhe
-- 👀 I’m interested in watching movies, writing and reading 
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on content like news and movies 
-- 📫 How to reach me is at my website wordpress.com
+- 👀 A very passionate learner aspiring developer / Creator
+- 🌱 I’m currently learning git and Microsoft development 
+- 💞️ I’m looking to collaborate on content and learn to contrinute
+- 📫 
 
 <!---
 Luckymhe/Luckymhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
